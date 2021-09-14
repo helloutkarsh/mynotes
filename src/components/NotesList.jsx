@@ -6,7 +6,7 @@ var stylingObject = {
     margin: "auto",
     display: "flex",
     flexWrap:'wrap',
-    maxWidth: "55rem",
+    maxWidth: "40rem",
     height: "10rem",
   },
   addNoteDiv: {
@@ -16,7 +16,10 @@ var stylingObject = {
 export const NotesList = ({ notes, handleAddNote, handleDeleteNote }) => {
   return (
     <>
+    <div>
+
       <AddNote handleAddNote={handleAddNote}/>
+    </div>
 
       <div style={stylingObject.div} className="NotesList">
         {notes.map((notes) => (

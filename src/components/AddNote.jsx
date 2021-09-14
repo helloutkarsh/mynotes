@@ -26,15 +26,14 @@ var addNoteStyle = {
 }
 
 var noteStyling = {
-    div:{ 
-        
-       
+    div:{  
         color:"black",
         background:"#FFF7AE",
         borderRadius:"5px",
-        width: "100%",
-        height:'100px',  
-        margin:'auto'
+        width: "25rem",
+        padding:'2px',
+        minHeight :"2rem",
+        margin:"0.5rem"
     },
         small:{
             borderRadius:"2.5px",
@@ -50,7 +49,6 @@ var noteStyling = {
             color:'darkred',
             textAlign:'right',
             float:"right",
-            
         },
         date:{
             backgroundColor:'lightblue',
@@ -68,7 +66,6 @@ var noteStyling = {
             padding:'5px',
             outline:'none',
             resize:'none',
-            height:'80px',
             border:'none',
             width:'100%',
             background:'#c8ffb0'
