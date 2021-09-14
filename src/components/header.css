@@ -1,0 +1,34 @@
+.note-header{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.brand{
+    margin: 10px;
+    display: flex;
+}
+.btn-toggle{
+    margin: auto;
+    color: white;
+    background-color: rgb(65, 65, 65);
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    padding: 10px;
+}
+.logo{
+    width: 10%;
+}
+.dark-mode{
+    font-size: 15px;
+    margin: 25px 20px;
+    outline: none;
+    border-radius: 10px;
+    color: honeydew;
+    background-color: black;
+    padding: 5px;
+}
+.toggle-dark{
+    background-color: rgb(14, 14, 14);
+}
