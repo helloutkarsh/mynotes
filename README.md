@@ -1,10 +1,9 @@
 ## Overview 
 Hello, Welcome to DailyNotes. A simple, focussed and quick solution for managing day to day tasks which boots productivity. 
 # Dark Mode 
-![image](https://user-images.githubusercontent.com/35009245/134783910-0dfd164f-bfe7-4e6d-8e7e-e4399f9b30cb.png)
-
+![image](https://user-images.githubusercontent.com/35009245/134784953-a9b15768-ad2c-46c0-81bc-d5f297ecbcff.png)
 # Notes
-![image](https://user-images.githubusercontent.com/35009245/134784273-f5b19c2f-c2b5-43ef-b84a-0fcdfa18d7e4.png width="480" height="790")
+![image](https://user-images.githubusercontent.com/35009245/134784965-6ab066e2-04e4-45c3-b4f3-1547ec685524.png)
 
 
 Basic Logically Consideration taken into account during development
