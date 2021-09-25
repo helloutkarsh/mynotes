@@ -8,15 +8,15 @@ Hello, Welcome to DailyNotes. A simple, focussed and quick solution for managing
 
 
 Basic Logically Consideration taken into account during development
--> Blank Notes cannot be added
--> Enough word length to keep overall profile slim, productive and to the point
--> Avoided true black (#000000) to prevent eye strain because of contrasting shades
--> Simple one click delete button to get items of the list
--> Dedicated Fast Search for filtering out important notes
+* -> Blank Notes cannot be added
+* -> Enough word length to keep overall profile slim, productive and to the point
+* -> Avoided true black (#000000) to prevent eye strain because of contrasting shades
+* -> Simple one click delete button to get items of the list
+* -> Dedicated Fast Search for filtering out important notes
 
 # Expected Future Improvements 
--> Adding a **star button** for marking important events
--> Adding user **login** and **sign up ** functionality supporting Google OAuth 2.0
--> Adding a **Remove All** ,**Remove Selected**, **Remove Completed** and **Undo** (upto last 5 operations)
--> Adding  customizable **color themes** useful for the diverse pair of eyes
--> Adding **Upcoming** and **Completed** sections to facilitate addition of future tasks and having a record of completed tasks
+* -> Adding a **star button** for marking important events
+* -> Adding user **login** and **sign up ** functionality supporting Google OAuth 2.0
+* -> Adding a **Remove All** ,**Remove Selected**, **Remove Completed** and **Undo** (upto last 5 operations)
+* -> Adding  customizable **color themes** useful for the diverse pair of eyes
+* -> Adding **Upcoming** and **Completed** sections to facilitate addition of future tasks and having a record of completed tasks
