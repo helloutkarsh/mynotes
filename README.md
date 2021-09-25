@@ -4,7 +4,7 @@ Hello, Welcome to DailyNotes. A simple, focussed and quick solution for managing
 ![image](https://user-images.githubusercontent.com/35009245/134783910-0dfd164f-bfe7-4e6d-8e7e-e4399f9b30cb.png)
 
 # Notes
-![image](https://user-images.githubusercontent.com/35009245/134784273-f5b19c2f-c2b5-43ef-b84a-0fcdfa18d7e4.png align="left" height="48" width="48")
+![image](https://user-images.githubusercontent.com/35009245/134784273-f5b19c2f-c2b5-43ef-b84a-0fcdfa18d7e4.png  height="790" width="480")
 
 
 Basic Logically Consideration taken into account during development
