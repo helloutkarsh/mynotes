@@ -1,5 +1,6 @@
 ## Overview 
 Hello, Welcome to DailyNotes. A simple, focussed and quick solution for managing day to day tasks which boots productivity. 
+A beginner's project to React.
 # Dark Mode 
 ![image](https://user-images.githubusercontent.com/35009245/134784953-a9b15768-ad2c-46c0-81bc-d5f297ecbcff.png)
 # Notes
